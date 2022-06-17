@@ -23,9 +23,9 @@ Work experience
   * Supervisor: Dr. Xinan Zhang
 
 * May, 2022 - July, 2022: Teaching Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * The University of Western Australia
+  * Duties included: ELEC5504 Power Electronics.
+  * Supervisor: Professor. Ho Ching Iu
   
 * June, 2017 - March, 2019: Research Assistant
   * Soutwestern University
