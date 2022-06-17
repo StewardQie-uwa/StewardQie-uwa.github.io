@@ -85,7 +85,7 @@ author:
   bio              : "PhD student & Research assistant at The University of Western Australia, expert in intelligent control, renewbale energy and power electronics"
   location         : "Perth, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TB76LqEAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "StewardQie-uwa"
   google_plus      :
   keybase          :
   instagram        :

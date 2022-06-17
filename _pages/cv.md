@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation(Control engineer) at Soutwestern University, Chongqing, PRC, 2020
+* M.S. with Distinction in Professinal Electrical and Electronics Engineer at The University of Western Australia, Perth, AU, 2021
+* Ph.D in in Electrical and Electronics Engineer at The University of Western Australia, Perth, AU 2025 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
+  * The University of Western Australia
+  * Duties included: Built the Interleaved boost converter, AC/DC inverter and the machine dirves.
+  * Supervisor: Dr. Xinan Zhang
+
+* May, 2022 - July, 2022: Teaching Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+* June, 2017 - March, 2019: Research Assistant
+  * Soutwestern University
+  * Duties included: Design the UAV Robotic Arm structure and data collection for lamb wave experiment set-up.
+  * Supervisor: Professor. Zichuan Fan
+  
+* June, 2017 - March, 2019: Research Assistant
+  * Soutwestern University
+  * Duties included: Design the contorl of Ball On Ball(BOB) system, Anti-windup system, Fly wheel system.
+  * Supervisor: Professor. Qian Qi
   
 Skills
 ======
@@ -48,12 +58,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
