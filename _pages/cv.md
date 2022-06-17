@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Automation(Control engineer) at Soutwestern University, Chongqing, PRC, 2020
-* M.S. with Distinction in Professinal Electrical and Electronics Engineer at The University of Western Australia, Perth, AU, 2021
+* M.S. with Distinction in Electrical and Electronics Engineer at The University of Western Australia, Perth, AU, 2021
 * Ph.D in in Electrical and Electronics Engineer at The University of Western Australia, Perth, AU 2025 (expected)
 
 Work experience
@@ -58,8 +58,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
