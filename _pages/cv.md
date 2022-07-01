@@ -39,12 +39,12 @@ Work experience
   
 Skills
 ======
-* Skill Matlab/Simulink
-* Skill Power Electronics
-  * Sub-skill DCDC
-  * Sub-skill DCAC
-  * Sub-skill ACDC
-* Skill Control system/ advanced control
+*  Matlab/Simulink
+*  Power Electronics
+  *  DCDC
+  *  DCAC
+  *  ACDC
+*  Control system/ advanced control
 
 Publications
 ======
@@ -52,14 +52,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-； Talks
-； ======
-；  <ul>{% for post in site.talks %}
-；    {% include archive-single-talk-cv.html %}
-；  {% endfor %}</ul>
-  
-； Teaching
-； ======
-；  <ul>{% for post in site.teaching %}
-；    {% include archive-single-cv.html %}
-；  {% endfor %}</ul>
