@@ -39,12 +39,10 @@ Work experience
   
 Skills
 ======
-*  Matlab/Simulink
-*  Power Electronics
-  *  DCDC
-  *  DCAC
-  *  ACDC
-*  Control system/ advanced control
+* Matlab/Simulink
+* Power Electronics (power converter/inverter)
+* Power system/ Micro grid (Renewable energy system and battery energy storage system)
+* Control system/ advanced control
 
 Publications
 ======
