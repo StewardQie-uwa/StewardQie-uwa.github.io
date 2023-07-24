@@ -4,7 +4,7 @@ collection: teaching
 type: "Lab demonstrator and tutor"
 permalink: /teaching/2022-sem1-teaching-1
 venue: "The University of Western Australia, School of Engineering, Department of Electrical, Electronic and Computer Engineering"
-date: 2022-01-01
+date: Sem1, 2022 & Sem 1, 2023
 location: "Perth, Au"
 ---
 
@@ -24,3 +24,4 @@ Role
 Teaching feedback
 ======
 4.67/5 (SURF-UWA, 2022)
+4.55/5 (SELT-UWA, 2023)
